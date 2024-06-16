@@ -1,7 +1,7 @@
 <div align="center"> <span><b>Dilusha Lakshan</b></span> </div>
 <br />
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilushalakshan&hide_border=true&theme=radical" alt="Dulanjaya Bhanu Summary" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilushalakshan&hide_border=true&theme=algolia" alt="Dulanjaya Bhanu Summary" /></p>
 </div>
 
 <div align="center">
